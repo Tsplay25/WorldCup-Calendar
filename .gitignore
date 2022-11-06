@@ -398,5 +398,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Git
-.github
+.github/
 .gitattributes
